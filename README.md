@@ -142,7 +142,7 @@ Este repositório contém uma série de exercícios resolvidos em Python, abrang
 - **Strings**
   - 1.py
   - ...
-  - ?
+  - 14.py
 
 ## Autor
 
