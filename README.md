@@ -70,7 +70,45 @@ Este repositório contém uma série de exercícios resolvidos em Python, abrang
 
 **Funções**
 
-- **1.py**:
+- **1.py - Triângulo de Números**
+
+  Programa que recebe um número inteiro `n` do usuário e imprime um padrão triangular, onde cada linha contém repetições do número correspondente à linha. Utiliza uma função que recebe o valor `n` e imprime até a n-ésima linha.
+
+- **2.py - Soma de Três Números**
+
+  Programa com uma função que recebe três argumentos e fornece a soma desses três números.
+
+- **3.py - Contagem de Dígitos**
+
+  Função que informa a quantidade de dígitos de um número inteiro informado.
+
+- **4.py - Reverso de Número**
+
+  Função que retorna o reverso de um número inteiro informado.
+
+- **5.py - Jogo de Craps**
+
+  Implementa um jogo de Craps onde o jogador lança um par de dados. As regras do jogo são explicadas no código.
+
+- **6.py - Data por Extenso**
+
+  Função que recebe uma data no formato DD/MM/AAAA e retorna uma string no formato D de mesPorExtenso de AAAA. Valida opcionalmente a data e retorna NULL caso seja inválida.
+
+- **7.py - Embaralha Palavra**
+
+  Função que recebe uma string como parâmetro e devolve outra string com os caracteres embaralhados, padronizando a caixa.
+
+- **8.py - Desenha Moldura**
+
+  Função que desenha um retângulo usando os caracteres ‘+’ , ‘−’ e ‘|’. Recebe dois parâmetros, linhas e colunas, ajustando valores fora da faixa.
+
+- **9.py - Identifica Palíndromo**
+
+  Função que recebe uma string e identifica se é ou não um palíndromo, desconsiderando acentos, pontuações e espaços.
+
+- **10.py - Fatorial do Número**
+
+  Função que recebe um número inteiro positivo do usuário e imprime o número cujo fatorial resulta no número digitado ou indica entre quais dois números fatoriais o número digitado se encontra.
 
 **Strings**
 
@@ -93,18 +131,18 @@ Este repositório contém uma série de exercícios resolvidos em Python, abrang
 
   - 1.py
   - ...
-  - 18.py
+  - 10.py
 
-- **EstruturaDecisão**
+- **Funções**
 
   - 1.py
   - ...
-  - 11.py
+  - 10.py
 
-- **EstruturaRepetição**
+- **Strings**
   - 1.py
   - ...
-  - 17.py
+  - ?
 
 ## Autor
 
