@@ -112,7 +112,41 @@ Este repositório contém uma série de exercícios resolvidos em Python, abrang
 
 **Strings**
 
-- **1.py**:
+**1. Tamanho de Strings**:
+
+- O programa lê duas strings fornecidas pelo usuário, exibe o comprimento de cada uma e verifica se são iguais em conteúdo e comprimento.
+
+**2. Nome ao Contrário em Maiúsculas**:
+
+- Este programa solicita ao usuário que digite seu nome e, em seguida, o exibe de trás para frente em letras maiúsculas.
+
+**3. Nome na Vertical**:
+
+- Solicita ao usuário que digite um nome e, em seguida, imprime cada letra do nome em uma linha separada.
+
+**4. Nome na Vertical em Escada**:
+
+- Similar ao anterior, porém imprime o nome em formato de escada, com cada linha mostrando uma parte adicional do nome.
+
+**5. Nome na Vertical em Escada Invertida**:
+
+- Modificação do programa anterior para imprimir o nome em uma escada invertida, começando com o nome completo e reduzindo uma letra a cada linha.
+
+**6. Conta Espaços**:
+
+- O programa solicita uma frase do usuário e conta quantos espaços em branco existem na frase.
+
+**7. Validação de CPF**:
+
+- Solicita ao usuário que insira um número de CPF e verifica se ele é válido ou inválido, tanto em termos de dígitos verificadores quanto de formatação.
+
+**8. Jogo da Forca**:
+
+- Implementa o clássico jogo da forca, onde o jogador deve adivinhar uma palavra escolhida aleatoriamente com um número limitado de tentativas.
+
+**9. Valida e Corrige Número de Telefone**:
+
+- Solicita ao usuário que insira um número de telefone e, se ele tiver apenas 7 dígitos, adiciona o '3' na frente. Corrige também a formatação se necessário.
 
 ## Funcionalidades:
 
@@ -142,7 +176,7 @@ Este repositório contém uma série de exercícios resolvidos em Python, abrang
 - **Strings**
   - 1.py
   - ...
-  - 14.py
+  - 9.py
 
 ## Autor
 
